@@ -24,7 +24,6 @@ The script analyzes Korean movie reviews, extracts meaningful words, and creates
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/movie-review-wordcloud.git
-   cd movie-review-wordcloud
    ```
 2. Install dependencies.
 
